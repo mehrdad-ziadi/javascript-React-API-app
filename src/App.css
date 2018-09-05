@@ -1,0 +1,22 @@
+
+body{
+
+  text-align: center;
+}
+
+table{
+  width: 100%;
+  }  
+
+.App {
+  text-align: center;
+  background-color: #00CCFF;
+}
+
+.App-header {
+  background-color:#999;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
